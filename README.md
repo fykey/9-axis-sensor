@@ -1,5 +1,5 @@
 # 9-axis-sensor
-9軸センサを用いた試製推定を頑張っているところです．  
+9軸センサを用いた姿勢推定を頑張っているところです．  
 <各fileの説明>  
 ROLL_PITCH_YAW.fzz: 配線図
 9-axis data.ino: 9軸センサから得られる生データをそのままmicroSDに保存するためのarduinoプログラム  
